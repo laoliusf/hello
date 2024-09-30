@@ -1,0 +1,5 @@
+# 内容：OpenAi Bard anthropic
+# 域名关键字匹配
+SRC-IP-CIDR,192.168.31.80/32,no-resolve
+SRC-IP-CIDR,192.168.31.146/32,no-resolve
+
